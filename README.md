@@ -1,5 +1,3 @@
-# Olá, meu nome é Fernando! 😀
-
 <div align="center">
   <a href="https://github.com/santosfernando2377">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosfernando2377&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
