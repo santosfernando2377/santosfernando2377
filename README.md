@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/santosfernando2377">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosfernando2377&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfernando2377&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosfernando2377&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfernando2377&layout=compact&langs_count=7&theme=default"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,15 +29,15 @@
 <div>
   
 <a href="https://github.com/santosfernando2377/React.js-Create-React-App-Reconstrucao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=React.js-Create-React-App-Reconstrucao&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=React.js-Create-React-App-Reconstrucao&theme=default" />
 </a>
   
-<a href="https://github.com/santosfernando2377/Component-Card-Order-Summary">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Component-Card-Order-Summary&theme=dark" />
+<a href="https://github.com/santosfernando2377/Componente-Cartao-De-Compra">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Componente-Cartao-De-Compra&theme=default" />
 </a>
   
-<a href="https://github.com/santosfernando2377/bodyfit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=bodyfit&theme=dark" />
+<a href="https://github.com/santosfernando2377/Bodyfit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Bodyfit&theme=default" />
 </a>
   
 </div>
