@@ -22,3 +22,22 @@
 #### Sou Analista de Suporte, mas procuro uma colocação no mercado de trabalho como desenvolvedor front-end junior ou trainner.
 * 📚Estudo front-end as tecnologias React.js e Vue.js
 * 🚲Quando tenho um tempo livre, eu adoro, andar de bike.
+
+##  
+  
+### Repositórios
+<div>
+  
+<a href="https://github.com/santosfernando2377/React.js-Create-React-App-Reconstrucao">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=React.js-Create-React-App-Reconstrucao&theme=dark" />
+</a>
+  
+<a href="https://github.com/santosfernando2377/Component-Card-Order-Summary">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Component-Card-Order-Summary&theme=dark" />
+</a>
+  
+<a href="https://github.com/santosfernando2377/bodyfit">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=bodyfit&theme=dark" />
+</a>
+  
+</div>
