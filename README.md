@@ -44,4 +44,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Portifolio&theme=default" />
 </a>
   
+<a href="https://github.com/santosfernando2377/Ecoleta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Ecoleta&theme=default" />
+</a>
+  
 </div>
