@@ -52,7 +52,7 @@
 </a>
   
 <a href="https://github.com/santosfernando2377/Comics-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Ecoleta&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Comics-List&theme=dark" />
 </a>
   
 </div>
