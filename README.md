@@ -39,12 +39,12 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Componente-Cartao-De-Compra&theme=dark" />
 </a>
   
-<a href="https://github.com/santosfernando2377/Bodyfit">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Bodyfit&theme=dark" />
+<a href="https://github.com/santosfernando2377/Contador">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Contador&theme=dark" />
 </a>
   
-<a href="https://github.com/santosfernando2377/Portifolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Portifolio&theme=dark" />
+<a href="https://github.com/santosfernando2377/To-do">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=To-do&theme=dark" />
 </a>
   
 <a href="https://github.com/santosfernando2377/Ecoleta">
