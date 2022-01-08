@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/santosfernando2377">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosfernando2377&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfernando2377&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=santosfernando2377&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santosfernando2377&layout=compact&langs_count=7&theme=light"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Fernando-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,27 +32,27 @@
 <div>
   
 <a href="https://github.com/santosfernando2377/React.js-Create-React-App-Reconstrucao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=React.js-Create-React-App-Reconstrucao&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=React.js-Create-React-App-Reconstrucao&theme=light" />
 </a>
   
 <a href="https://github.com/santosfernando2377/Componente-Cartao-De-Compra">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Componente-Cartao-De-Compra&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Componente-Cartao-De-Compra&theme=light" />
 </a>
   
 <a href="https://github.com/santosfernando2377/Contador">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Contador&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Contador&theme=light" />
 </a>
   
 <a href="https://github.com/santosfernando2377/To-do">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=To-do&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=To-do&theme=light" />
 </a>
   
 <a href="https://github.com/santosfernando2377/Ecoleta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Ecoleta&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Ecoleta&theme=light" />
 </a>
   
 <a href="https://github.com/santosfernando2377/Comics-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Comics-List&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Comics-List&theme=light" />
 </a>
   
 </div>
