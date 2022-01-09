@@ -31,8 +31,16 @@
 ### Repositórios
 <div>
   
-<a href="https://github.com/santosfernando2377/React.js-Create-React-App-Reconstrucao">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=React.js-Create-React-App-Reconstrucao&theme=light" />
+<a href="https://github.com/santosfernando2377/The-Guardian-News">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=The-Guardian-News&theme=light" />
+</a>
+  
+<a href="https://github.com/santosfernando2377/Ecoleta">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Ecoleta&theme=light" />
+</a>
+  
+<a href="https://github.com/santosfernando2377/Comics-List">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Comics-List&theme=light" />
 </a>
   
 <a href="https://github.com/santosfernando2377/Componente-Cartao-De-Compra">
@@ -45,14 +53,6 @@
   
 <a href="https://github.com/santosfernando2377/To-do">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=To-do&theme=light" />
-</a>
-  
-<a href="https://github.com/santosfernando2377/Ecoleta">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Ecoleta&theme=light" />
-</a>
-  
-<a href="https://github.com/santosfernando2377/Comics-List">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=santosfernando2377&repo=Comics-List&theme=light" />
 </a>
   
 </div>
