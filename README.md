@@ -19,8 +19,8 @@
   <a href = "mailto:santosfernando2377@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fernandossoares327/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 
-### Sobre
-#### Sou Analista de Suporte, mas procuro uma colocação no mercado de trabalho como desenvolvedor front-end junior ou trainner.
+### Olá 👋
+#### Meu nome é Fernando Soares, sou *Analista de Suporte*, mas procuro uma colocação no mercado de trabalho como desenvolvedor front-end junior.
 * 📚Estudo front-end as tecnologias React.js e Vue.js
 * 🚲Quando tenho um tempo livre, eu adoro, andar de bike.
 
